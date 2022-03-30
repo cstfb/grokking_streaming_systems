@@ -7,10 +7,9 @@ Welcome to grokking streaming systems's documentation!
 ======================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
-
+   封面 <cover.rst>
 
 Indices and tables
 ==================
